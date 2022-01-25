@@ -1,0 +1,34 @@
+.t{
+    font-size: 60px;
+    font-weight: 600;
+}
+.b:hover{
+    color: crimson;
+    background: none;
+    border: 2px solid crimson;
+}
+.n:hover{
+    color: crimson;
+
+}
+body{
+    background-image: url(h.jpg);
+    background-repeat: no-repeat;
+    position:static;
+    font-family: 'ubuntu',sans-serif;
+}
+.p{
+    margin-top: 300px;
+}
+.red-text{
+    color: crimson;
+    font-weight: 800;
+    
+    
+}
+.user{
+    color: crimson;
+    font-size: 25px;
+    padding: 20px;
+    
+}
