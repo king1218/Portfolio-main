@@ -15,6 +15,7 @@ body{
     background-image: url(h.jpg);
     background-repeat: no-repeat;
     position:static;
+    background-position: right top;
     font-family: 'ubuntu',sans-serif;
 }
 .p{
