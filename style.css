@@ -17,6 +17,8 @@ body{
     position:static;
     background-position: right top;
     font-family: 'ubuntu',sans-serif;
+    background-position: center;
+     background-size: auto;
 }
 .p{
     margin-top: 300px;
